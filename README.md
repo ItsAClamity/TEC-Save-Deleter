@@ -28,16 +28,16 @@ In your terminal or command prompt, navigate to the project directory and run:
 
 ## Usage
 
-Run the script using:
+Run the script by opening a command prompt in the program directory and running:
 
     python EleDelGUI.py
 
-Usage is pretty straightforward
+Porgram usage is pretty straightforward:
 
-- Browse - Select the folder with the base Elephant Collection save file or the folder to scan.
-- Delete Saves - Delete the saves in the save file directory
-    - f ELC_SAVE.sol is not found it will scan the directory for .sol files and ask you to confirm before deletion
- - Locate/Check Save - Will scan the current for the base save file, and once located will update the deletion directory to where it was found
+- **Browse** - Select the folder with the base Elephant Collection save file or the folder to scan.
+- **Delete Saves** - Delete the saves in the save file directory
+    - If ELC_SAVE.sol is not found it will scan the directory for .sol files and ask you to confirm before deletion
+ - **Locate/Check Save** - Will scan the current for the base save file, and once located will update the deletion directory to where it was found
      - If the save directory is already set correctly, this will tell you if the save currently exists, and if so, how many memories are currently unlocked.
 
 On Windows, the default directory for The Elephant Collection saves should be:
@@ -48,7 +48,7 @@ On Windows, the default directory for The Elephant Collection saves should be:
 
 ## Notes
 
-- If you would like to avoid save loss **back up your save before deleting**. There is no way to recover the deleted files after deletion.
+- If you would like to avoid losing your current saves **back up your save before deleting**. There is no way to recover the deleted saves after deletion.
 - It is reccomended to close out of the game before deleting saves.
     - Deleting saves while the game is open may cause save files not to be deleted properly or be rewritten with current game data.
 - Thank you to jmtb02 and the Wonderful Elephant team for making the gane!
