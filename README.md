@@ -1,7 +1,7 @@
 # The Elephant Colection Save Deleter
 Save deletion automator written in python for The Elephant Collection.
 
-![image](https://github.com/user-attachments/assets/c1fcfcc4-fde4-43b8-8863-33b2d35e8b2b)
+![image](https://github.com/user-attachments/assets/0ba96f6f-5fdd-4c80-8fc5-736352551fe8)
 
 
 ## Features
